@@ -1,0 +1,57 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+    background-color: #298a08;
+}
+
+.quem-somos {
+    background-color: #8181f7;
+    color: white;
+}
+
+.margin {
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.rounded-circle {
+    width: 400px;
+    height: 400px;
+}
+
+.parceiros {
+    background-color: #58faf4;
+}
+
+#parceiros div .container .row img {
+    width: 100%;
+}
+
+.col-lg-4 p {
+    font-size: 14px;
+}
+
+.imagem-servico {
+    width: 350px;
+    height: 300px;
+}
+
+.rodape {
+    background-color: black;
+}
+
+.rodape p {
+    text-align: right;
+    margin-right: 15px;
+    color: #17202A;
+}
